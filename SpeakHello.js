@@ -9,7 +9,7 @@
 
 
 
-// DO NOT attach the speakWord variable to the 'helloSpeaker' object.
+// DO NOT attach the the speakWord variable to the 'helloSpeaker' object.
 
 
 
